@@ -1,2 +1,4 @@
 # CodePath-web-101
-Simple website regarding environmental issue.
+Introduction to Web Development through use of HTML, CSS and JavaScript
+
+Throughout the Project, flexbox, evenlisteners, and box model were taught and implemented.
